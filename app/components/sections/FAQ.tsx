@@ -1,4 +1,3 @@
 export default function FAQ() {
-  return;
-  <></>;
+  return <></>;
 }
